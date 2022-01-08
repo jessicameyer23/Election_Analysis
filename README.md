@@ -25,3 +25,7 @@ The analysis of the election shows that:
     
  -The winnter of the election was:
    -Candidate 1, who received x% of the vote and "y" number of votes.
+
+## Challenge Overview
+
+## Challenge Summary
