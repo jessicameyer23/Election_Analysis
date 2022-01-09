@@ -9,7 +9,7 @@ I have included a picture of my print command line below, which includes a summa
 
 ![image_name](https://github.com/jessicameyer23/Election_Analysis/blob/main/analysis/Picture%20of%20Command%20Line%202022-01-08%20111008.png)
 
-1.  Calculate the total number of votes cast:  The total number of votes cast in the election was 369,711
+1.  Calculate the total number of votes cast:  The total number of votes cast in the election was 369,711.
 2.  Get a complete list of candidates who received votes:   There were 3 candidates who received votes: Diana DeGette, Charles Stockham and Raymon Doane.
 3.  Calculate the total number of votes each candidate received:  Diana DeGette received 272,892 votes and Charles Stockham received 85,213 votes.  Raymon Doane received the least amount of votes, receiving a total of only 11,606 votes.
 4.  Calculate the percentage of votes each candidate won:  Diana DeGette received 73.8% of the votes and Charles Stockham received 23% of the votes.   Raymon Doane received only 3.1% of the votes.
